@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hi! I'm Alice again. I'm a file someone added to this repository a while ago.
 This is the new line!
 Another new line
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+This is the change.
+>>>>>>> 4d26882efac95a09508b2f3a5248127a90db0019
